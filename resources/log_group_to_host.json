@@ -1,0 +1,14 @@
+{
+	"/var/log/messages": {
+		"hostname": "",
+		"port": 1514
+		},
+	"/Security": {
+		"hostname": "123.12.232.12",
+		"port": 1514
+		},
+	"/System": {
+		"hostname": "",
+		"port": 1514
+		}
+}
